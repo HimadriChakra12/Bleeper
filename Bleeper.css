@@ -1,0 +1,32 @@
+div[class="mx_ResizeHandle mx_ResizeHandle_horizontal"], div[class="_1A4wBfXGCJbuqLBs0CbYmf _3g8dJCEgNKLwbhx9rXgLuZ _3yDlEazbDV1ZHg1bVsUha1"]{
+    display: none;
+}
+div[class="bp_TitleBar"]{
+    display: ;
+    background-color: #000;
+}
+.bp_LeftPanel .rooms .favourites.rooms__section {
+    background-color: #1a1a1a;
+    margin: 10px;
+}
+._16Ny3EaDbjMxMnRqLiU34p ._1fpjt5o99YQR41xOEzzKWs {
+    background-color: #000;
+}
+.mx_MatrixChat:not(.resizing) .bp_LeftPanel {
+    background-color: #111;
+}
+.mx_MatrixChat_wrapper--windows .mx_RoomHeader {
+    background: #000;
+}
+.bp_LeftPanel{
+    min-width: 100px;
+    max-width: 300px;
+    margin: 5px;
+    border-radius: 10px;
+}
+.mx_MatrixChat{
+    background: #000;
+}
+.mx_MatrixChat > :not(.mx_SpacePanel):not(.mx_ResizeHandle):not(.mx_LeftPanel_wrapper):not(.bp_LeftPanel) {
+    background-color: #000;
+}
