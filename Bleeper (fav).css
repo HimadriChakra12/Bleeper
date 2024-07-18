@@ -1,0 +1,69 @@
+:root{
+    --metrology-favorites-size: 33px;
+}
+span[class="_1UcM98hmMQusvozYB30bLy"], div[class="mx_ResizeHandle mx_ResizeHandle_horizontal"], div[class="_1A4wBfXGCJbuqLBs0CbYmf _3g8dJCEgNKLwbhx9rXgLuZ _3yDlEazbDV1ZHg1bVsUha1"]{
+   display: none;
+}
+div[class="bp_TitleBar"]{
+   display: none;
+   background-color: #000;
+}
+.bp_LeftPanel .rooms .favourites.rooms__section {
+   background-color: #1a1a1a;
+   margin: 10px;
+}
+._16Ny3EaDbjMxMnRqLiU34p ._1fpjt5o99YQR41xOEzzKWs {
+   background-color: #000;
+}
+.mx_MatrixChat:not(.resizing) .bp_LeftPanel {
+   background-color: #111;
+}
+.mx_MatrixChat_wrapper--windows .mx_RoomHeader {
+   background: #000;
+}
+.bp_LeftPanel{
+   min-width: 100px;
+   max-width: 300px;
+   margin: 5px;
+   border-radius: 10px;
+}
+.mx_MatrixChat{
+   background: #000;
+}
+.mx_MatrixChat > :not(.mx_SpacePanel):not(.mx_ResizeHandle):not(.mx_LeftPanel_wrapper):not(.bp_LeftPanel) {
+   background-color: #000;
+}
+div[class="_2pY_0PcBCb5Ui7yco_AyPM"]{
+   width: 30px;
+   height: 40px;
+}
+.bp_LeftPanel .rooms .favourites_avatar {
+   height: var(--metrology-favorites-size);
+ }
+ 
+ .bp_LeftPanel
+   .rooms
+   .favourites
+   .bp_RoomTile.small
+   .outline
+   .avatar
+   .mx_BaseAvatar_initial {
+   width: var(--metrology-favorites-size) !important;
+   line-height: var(--metrology-favorites-size) !important;
+ }
+ 
+ .bp_LeftPanel
+   .rooms
+   .favourites
+   .bp_RoomTile.small
+   .outline
+   .mx_BaseAvatar_image {
+   width: var(--metrology-favorites-size) !important;
+   height: var(--metrology-favorites-size) !important;
+ }
+ 
+ .bp_LeftPanel .rooms .favourites .mx_BaseAvatar_image {
+   width: var(--metrology-favorites-size) !important;
+   height: var(--metrology-favorites-size) !important;
+ }
+ 
